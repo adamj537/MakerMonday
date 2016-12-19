@@ -6,25 +6,23 @@
 #define POT_PIN			0				// pin the pot is connected to
 #define LED_PIN			13				// pin the LED is connected to
 
-// This function runs once, when the code starts.
 void setup()
 {
 	// Set LED pin as an output.
 }
 
-// This function runs repeatedly forever.
 void loop()
 {
 	// Make a variable for the pot's value.
 
-	// Read the pot's value.
+	// Read the pot's value and save the result in your variable.
 
 	// Turn the LED on.
 
-	// Wait a bit.
+	// Wait a bit (use your variable).
 
 	// Turn the LED off.
 
-	// Wait a bit.
+	// Wait a bit (use your variable).
 }
 
